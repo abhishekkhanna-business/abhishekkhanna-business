@@ -1,0 +1,5 @@
+- 👋 Hi, I am @abhishekkhanna-business
+- 👀 I am interested in software development
+- 🌱 I am currently learning azure
+- 💞️ I am not looking to collaborate on anything at the moment
+- 📫 How cannot reach me at this time
